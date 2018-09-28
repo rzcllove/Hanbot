@@ -1,0 +1,21 @@
+{
+    "version": "1.1",
+    "msg": " 1.1 Fix Jinx   </br>公告:祝大家国庆节快乐  国庆期间脚本问题Bug反馈QQ：348013487",
+    "files": {
+        "header.lua": "9c850d53fa76463e97fbd5b3fb37383d",
+        "json.lua": "410168d33dab47069c3ce493249b4769",
+        "main.lua": "161544a9374141b6a3bf13b4b518012f",
+        "SpellDatabase.lua": "95d81b42139643a3ac5f617267e328b9",
+        "util.lua": "af757c46dd434b44b30813929c55c7a9",
+        "hero/Ashe.lua": "3d144c4415e64bdc96d185b13e9eb248",
+        "hero/Ezreal.lua": "65fae6d8f19b462995debe3a372e390b",
+        "hero/Irelia.lua": "c36d19ac72034c298ab38a0b8738b0bf",
+		"hero/NIrelia.lua": "c36d19ac72333298ab38a0b8738b0bf",
+        "hero/Kaisa.lua": "90dab5826088490b9bfdd1b78fd1726d",
+        "hero/KogMaw.lua": "8a1927de3cc04aad815dacb2080ad99d",
+        "hero/Tristana.lua": "3b66c8b52db34182a464f07a7a1e7ee5",
+        "hero/Twitch.lua": "102e26b523334926b8816c3703b5a1d0",
+        "hero/Jinx.lua": "102e26b523334265g4d59683703b51d0",
+        "version": "f9499713a78a4a5eb5d68cf619541fe5"
+    }
+}
